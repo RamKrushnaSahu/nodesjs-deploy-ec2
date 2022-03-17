@@ -1,5 +1,5 @@
 #!/bin/bash
 
 cd /home/ubuntu
-sudo yum install nodejs npm -y
+yum install npm -y
 npm -f install
